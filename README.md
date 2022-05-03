@@ -1,2 +1,2 @@
 # Nuelbotz
-Sc Bot Multi Device 
+emoji:yum:
